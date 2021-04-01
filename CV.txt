@@ -1,12 +1,1 @@
-Name/Surname                  Anna Poghosyan\
-Born                          08/07/1999\
-Address                       Andranik 86, apt. 28, Yerevan\
-Phone                         098 877773\
-E-Mail                        anna.poghosyan@picsart.com\
-Education                     NPUA (National Polytechnic University of\
-                              Armenia) Institute of Information and Telecommunication\
-                              Technologies and Electronics\
-Skills                        C/C++, \cf4 \cb5 \outl0\strokewidth0 Pascal, OOP, Manual  QA\cf2 \cb3 \outl0\strokewidth0 \strokec2 \
-Languages                     Armenian (native), Russian (fluent), English (fluent),\
-                              Spanish (Basic)\
-}
+
